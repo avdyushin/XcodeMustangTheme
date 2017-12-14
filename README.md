@@ -22,3 +22,7 @@ cp *.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 
 ### Ayu 2
 <img src="ayu2.png" width="1024"/>
+
+## Font
+
+Font on the screenshorts is [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono)
