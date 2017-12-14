@@ -1,22 +1,24 @@
-# XcodeMustangTheme
-Xcode Mustang color theme
+# Xcode colour themes
 
-## Installation
+This repository contains my favourite Mustang and Ayu2 colour themes.
 
-In `Terminal.app`
+## How to install
 
-Copy colortheme file to Xcode's user data:
-
-```
-cp ~/Desktop/Mustang.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes
-```
-
-If directory does not exists, create it first:
+Copy colour theme files to Xcode's user data:
 
 ```
-mkdir ~/Library/Developer/Xcode/UserData/FontAndColorThemes
+cp *.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 ```
 
-Based on [Mustang Vim theme](http://hcalves.deviantart.com/art/Mustang-Vim-Colorscheme-98974484)
+## Original themes
 
-![image](Mustang@2x.png)
+* Mustang based on [Mustang Vim theme](http://hcalves.deviantart.com/art/Mustang-Vim-Colorscheme-98974484)
+* Ayu2 based on [Ayu theme](https://github.com/dempfi/ayu)
+
+## Screenshots
+
+### Mustang
+<img src="mustang.png" width="1024"/>
+
+### Ayu 2
+<img src="ayu2.png" width="1024"/>
