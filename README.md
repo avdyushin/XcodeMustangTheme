@@ -26,3 +26,7 @@ cp *.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 ## Font
 
 Font on the screenshorts is [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono)
+
+## Links
+
+Ayu 2 color theme for vim is here: [https://github.com/avdyushin/Dotfiles](https://github.com/avdyushin/Dotfiles).
